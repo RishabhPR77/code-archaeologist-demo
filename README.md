@@ -2,7 +2,7 @@
 
 **Ask why any code was written - and get a grounded answer from the actual Git history.**
 
-🔗 [Live Demo](https://code-archaeology-rag.streamlit.app) &nbsp;·&nbsp; [GitHub](https://github.com/RishabhPR77/code-archaeology-rag)
+🔗 [Live Demo](https://code-archaeology-rag.streamlit.app)
 
 ---
 
